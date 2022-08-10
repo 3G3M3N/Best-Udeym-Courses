@@ -4,7 +4,7 @@ Hello, ı used this dataset from https://www.kaggle.com/datasets/andrewmvd/udemy
 **************************************************************************************************************************
 Course Distribution:
 
-web Development        1200
+Web Development        1200
 
 Business Finance       1195
 
